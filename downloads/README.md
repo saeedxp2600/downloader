@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [slat_flow_img2shape_dit_1_3B_1024_bf16](./slat_flow_img2shape_dit_1_3B_1024_bf16)
 
 ---
 
